@@ -1,0 +1,10 @@
+com\uvt\jaxws\server\jaxws\FactResponse.class
+com\uvt\jaxws\server\jaxws\SubtractResponse.class
+com\uvt\jaxws\server\ArithmeticOperationsServiceImpl.class
+com\uvt\jaxws\server\jaxws\AddResponse.class
+com\uvt\jaxws\server\jaxws\Fact.class
+com\uvt\jaxws\server\jaxws\Sub.class
+com\uvt\jaxws\server\jaxws\Add.class
+com\uvt\jaxws\server\jaxws\Subtract.class
+com\uvt\jaxws\server\ArithmeticOperationsService.class
+com\uvt\jaxws\server\jaxws\SubResponse.class

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<endpoints version="2.0"
+	xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime">
+
+	<endpoint implementation="com.uvt.jaxws.server.ArithmeticOperationsServiceImpl"
+		name="arithmeticServer" 
+		url-pattern="/arithmeticOperationsServer"      
+      /> 
+     
+
+</endpoints>
